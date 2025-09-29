@@ -1,6 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
-import { Joke } from '../interfaces/types';
+import type { Joke } from '../interfaces/types';
 
 interface Props {
     joke: Joke;

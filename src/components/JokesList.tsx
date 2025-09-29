@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Joke } from '../interfaces/types';
+import type { Joke } from '../interfaces/types';
 import JokePreview from './JokePreview';
 import styled from 'styled-components';
 
